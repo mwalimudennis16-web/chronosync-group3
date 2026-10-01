@@ -2,4 +2,5 @@ fastapi
 uvicorn
 pydantic
 python-multipart
-twilio
+requests
+python-dotenv
